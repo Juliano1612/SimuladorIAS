@@ -1,0 +1,7 @@
+.org 102
+  .word 2
+  .word 10
+.org 000 
+  LOAD M(102)
+  MUL  M(103)
+  EXIT M(0)

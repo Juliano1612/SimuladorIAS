@@ -1,0 +1,4 @@
+*Caso o executável não execute diretamente então digite
+no cmd:
+
+java -jar "C:\ ~caminho~ \IAS.jar"
